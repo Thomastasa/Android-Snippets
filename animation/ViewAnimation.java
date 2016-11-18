@@ -6,7 +6,7 @@ import android.view.View;
 
 class ViewAnimation {
 
-    static public boolean animationInProgress = false;
+    static private boolean animationInProgress = false;
     static private int defaultOffsetHeight = 4;
     static private int defaultOffsetWidth = 2;
     static private int defaultDuration = 220;
