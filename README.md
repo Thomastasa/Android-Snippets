@@ -6,5 +6,5 @@ DISCLAIMER: They may or may not be 100% tested, and usually fulfill whatever nee
 
 * Animation
   * ViewAnimation.java - Android class used to animate views with callback on complete
-  * SimpleCallback.java - Simple callback used with ViewAnimation.java
+  * SimpleCallback.java - Android interface used as a callback with ViewAnimation.java
   * ViewAnimationUsage.java - A couple Examples on how to use ViewAnimation
