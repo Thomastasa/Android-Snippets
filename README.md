@@ -9,7 +9,7 @@ DISCLAIMER: They may or may not be 100% tested, and usually fulfill whatever nee
   * SimpleCallback.java - Android interface used as a callback with ViewAnimation.java
   * ViewAnimationUsage.java - A couple Examples on how to use ViewAnimation
 
-* GoogleLocaiton
+* GoogleLocation
   * AndroidManifest.xml - Android Manifest file
   * build.gradle - Applicaiton level gradle file
   * GetLocationFragment - Android Fragment class to get current location once
