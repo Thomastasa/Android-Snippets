@@ -1,0 +1,8 @@
+in appplicaton level build.gradle:
+add to play services location to list of dependices
+
+dependencies {
+
+  compile 'com.google.android.gms:play-services-location:10.0.1'
+
+}
